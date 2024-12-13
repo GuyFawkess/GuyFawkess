@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
 <h3 align="center">A passionate Full-Stack developer from Spain</h3>
 
+- As a programmer, I am a detail-oriented problem solver with a passion for building efficient, user-friendly applications. Leveraging my Full Stack Development training, I thrive in learning new technologies and creating solutions that bridge functionality with seamless user experiences.
+
 - 🔭 I have worked on [Tap News](https://github.com/GuyFawkess/sp78-Final-Project-TapNews), A web application that delivers real-time news with a social twist, enabling users to add friends, chat, and share news stories. Think of it as the Instagram of news.
 
 - 🌱 I’m currently learning **Three.js, and improving my actual skills**
 
-- 👯 I’m looking to collaborate on **more exciting proyects**
-
-- 🤝 I’m looking for help with **finding a job as programer**
-
-- 💬 Ask me about **react, python, flask, bootstrap**
+- 👯 I’m looking to collaborate on **more exciting proyects that will help to improve my skills!**
 
 - 📫 How to reach me **jason.a.ollivierre@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/jason-ollivierre-3388a3188/](https://www.linkedin.com/in/jason-ollivierre-3388a3188/)
 
 - ⚡ Fun fact **I love dad jokes**
 
