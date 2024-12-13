@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
 <h3 align="center">A passionate Full-Stack developer from Spain</h3>
 
-- 🔭 I have worked on [Tap News](https://github.com/GuyFawkess/sp78-Final-Project-TapNews)
+- 🔭 I have worked on [Tap News](https://github.com/GuyFawkess/sp78-Final-Project-TapNews), A web application that delivers real-time news with a social twist, enabling users to add friends, chat, and share news stories. Think of it as the Instagram of news.
 
 - 🌱 I’m currently learning **Three.js, and improving my actual skills**
 
